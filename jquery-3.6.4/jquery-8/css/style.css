@@ -12,12 +12,25 @@
 /* ==================================== jQuery Slide part-1-5 end ========================= */
 
 /* ==================================== jQuery Slide part-6 start ========================= */
+/* div{
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin-top: 50px;
+  position: relative;
+} */
+/* ==================================== jQuery Slide part-6 end ========================= */
+
+/* ==================================== jQuery Slide part-7 end ========================= */
 div{
   width: 100px;
   height: 100px;
   background: red;
   margin-top: 50px;
   position: relative;
+  font-size: 20px;
+  padding: 10px;
 }
-/* ==================================== jQuery Slide part-6 end ========================= */
+
+/* ==================================== jQuery Slide part-7 end ========================= */
 

@@ -40,13 +40,19 @@ $(document).ready(function(){
     
     */
 
-    /* part-6 */
+    /* part-6 
     var moshiur = $("div"); <!-- variable ধরে, property, opacity and speed parameter change করা হয়েছে, -->
     moshiur.animate({height: '300px', opacity: '0.5'},'slow');
     moshiur.animate({width: '300px', opacity: '0.7'},'slow');
     moshiur.animate({height: '100px', opacity: '0.4'},'slow');
     moshiur.animate({width: '100px', opacity: '1'},'slow');
     
+    */
+
+    var moshiur = $("div");
+    moshiur.animate({left: '300px'},'slow');
+    moshiur.animate({width: '300px'},'slow');
+    moshiur.animate({fontSize: '50px'},'fast');<!-- variable ধরে, property, opacity and speed parameter এবং fontSize change করা হয়েছে, -->
 
 });
 
