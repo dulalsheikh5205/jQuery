@@ -32,12 +32,20 @@ $(document).ready(function(){
 
     */
    
-    /* part-5 */
+    /* part-5 
     $("div").animate({
         // height: 'toggle' <!-- এখানে বাড়বে ও কমবে -->
         width: 'toggle' 
     });
- 
+    
+    */
+
+    /* part-6 */
+    var moshiur = $("div"); <!-- variable ধরে, property, opacity and speed parameter change করা হয়েছে, -->
+    moshiur.animate({height: '300px', opacity: '0.5'},'slow');
+    moshiur.animate({width: '300px', opacity: '0.7'},'slow');
+    moshiur.animate({height: '100px', opacity: '0.4'},'slow');
+    moshiur.animate({width: '100px', opacity: '1'},'slow');
     
 
 });

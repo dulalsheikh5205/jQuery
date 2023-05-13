@@ -1,13 +1,23 @@
 
-/* ==================================== jQuery Slide part-1 start ========================= */
+/* ==================================== jQuery Slide part-1-5 start ========================= */
 
-div{
+/* div{
   width: 200px;
   height: 200px;
   background: red;
   margin-top: 50px;
   position: relative;
-}
+} */
 
-/* ==================================== jQuery Slide part-1 ========================= */
+/* ==================================== jQuery Slide part-1-5 end ========================= */
+
+/* ==================================== jQuery Slide part-6 start ========================= */
+div{
+  width: 100px;
+  height: 100px;
+  background: red;
+  margin-top: 50px;
+  position: relative;
+}
+/* ==================================== jQuery Slide part-6 end ========================= */
 
