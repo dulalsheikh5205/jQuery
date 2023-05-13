@@ -22,13 +22,23 @@ $(document).ready(function(){
     
     */
 
-    /* part-4 */
+    /* part-4 
     $("div").animate({
         left: '500px',<!-- part-4 -->
         width: '+=150px', <!-- এখানে আগের 100px+ এখানে +150px মোট 250px width আছে, আবার ক্লিক করলে ততবার করে, বেড়ে width যুক্ত হবে, -->
         height: '+=150px'
         
     }); 
+
+    */
+   
+    /* part-5 */
+    $("div").animate({
+        // height: 'toggle' <!-- এখানে বাড়বে ও কমবে -->
+        width: 'toggle' 
+    });
+ 
+    
 
 });
 
