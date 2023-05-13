@@ -1,4 +1,7 @@
-.btn{
+
+/* ==================================== jQuery Slide part-1,2 start ========================= */
+
+/* .btn{
   width: 500px;
   background: #333;
   color:#fff;
@@ -17,4 +20,32 @@
   padding: 10px;
   font-size: 16px;
   display:none;
+} */
+
+/* ==================================== jQuery Slide part-1,2 end ========================= */
+
+/* ==================================== jQuery Slide part-3 start ========================= */
+
+.btn{
+  width: 500px;
+  background: #333;
+  color:#fff;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  font-size: 20px;
+  margin-top: 50px;
 }
+.lorem{
+  width: 500px;
+  background:#000;
+  color: #fff;
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  font-size: 16px;
+  
+}
+
+
+/* ==================================== jQuery Slide part-3 end ========================= */
